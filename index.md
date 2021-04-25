@@ -6,7 +6,7 @@ is_project_page: false
 
 ### ここでは、ノートPCの設定用動画を公開しています。（2021年用）
 スマートフォンやタブレットを使用してこのサイトを見るには、下のQRコードを読み取って下さい。
-<img src="qr_github.png">
+<img src="github_qr.png">
 <br>
 Windows用の説明の後に、Mac用があります
 
