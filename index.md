@@ -29,6 +29,7 @@ Windows用の説明の後に、Mac用があります
 
 - [お問い合わせ](#contact)
 
+---
 
 <div id="winbasic"></div>
 ### **Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。**
