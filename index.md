@@ -9,6 +9,8 @@ is_project_page: false
 <br>
 <img src="github_qr.png">
 <br>
+また、短縮URL **http://is.gd/oitpc** でもアクセスできます。
+<br>
 Windows用の説明の後に、Mac用があります
 
 ## 目次
