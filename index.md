@@ -1,6 +1,8 @@
+<!--
 ---
 title:  "大阪工業大学 ノートPCサポートサイト"
 ---
+-->
 # 大阪工業大学 ノートPCサポートサイト
 `You can use the [editor on GitHub](https://github.com/mokoneko/oit-pc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 `
