@@ -8,28 +8,28 @@ title:  "大阪工業大学 ノートPCサポートサイト"
 Windows用の説明の後に、Mac用があります
 
 ## 目次
-### Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。
-### Surface, Surface Laptop, Surface Book用キーボード設定
-### Windows用 Officeインストール動画
-### Adobe Readerのインストール
-### VPN接続ツールのインストールと設定
-### ネットワークドライブ（教材フォルダ）接続ツールのインストール
-### 教材フォルダからのファイル取得（ダウンロード）方法
-### 教材フォルダへのファイル提出（アップロード）方法
-### 大学プリンタのインストール・設定方法
+- [Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。](#winbasic)
+- Surface, Surface Laptop, Surface Book用キーボード設定
+- Windows用 Officeインストール動画
+- Adobe Readerのインストール
+- VPN接続ツールのインストールと設定
+- ネットワークドライブ（教材フォルダ）接続ツールのインストール
+- 教材フォルダからのファイル取得（ダウンロード）方法
+- 教材フォルダへのファイル提出（アップロード）方法
+- 大学プリンタのインストール・設定方法
 
-## ここからMac用の案内です
-### Mac用 Officeインストール動画
-### Adobe Readerのインストール(Mac)
-### Mac用 VPNツールのインストールと設定
-### MacでFinderを使用した教材フォルダからのファイルダウンロード方法（VDIよりこちらを推奨）
-### MacでVDIを利用した教材フォルダからのファイルダウンロード方法
-### Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方
-### 大学プリンタのインストール・設定方法
-### お問い合わせ
+### ここからMac用の案内です
+Mac用 Officeインストール動画
+Adobe Readerのインストール(Mac)
+Mac用 VPNツールのインストールと設定
+MacでFinderを使用した教材フォルダからのファイルダウンロード方法（VDIよりこちらを推奨）
+MacでVDIを利用した教材フォルダからのファイルダウンロード方法
+Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方
+大学プリンタのインストール・設定方法
+お問い合わせ
 
 
-### Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。
+### <div id="winbasic">Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。</div>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WkTJBk9QWws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
