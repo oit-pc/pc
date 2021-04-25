@@ -35,7 +35,7 @@ Windows用の説明の後に、Mac用があります
 <div id="winbasic"></div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WkTJBk9QWws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Surface, Surface Laptop, Surface Book用キーボード設定
+**Surface, Surface Laptop, Surface Book用キーボード設定**
 <div id="surface"></div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Xmogjmm0IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
