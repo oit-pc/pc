@@ -1,5 +1,6 @@
 ---
 title:  "大阪工業大学 ノートPCサポートサイト"
+is_project_page: false
 ---
 # 大阪工業大学 ノートPCサポートサイト
 
