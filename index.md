@@ -34,11 +34,13 @@ Windows用の説明の後に、Mac用があります
 <div id="winbasic"></div>
 ### **Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WkTJBk9QWws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br />
+<br />
 <div id="surface"></div>
 **Surface, Surface Laptop, Surface Book用キーボード設定**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Xmogjmm0IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br />
+<br />
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
