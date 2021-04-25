@@ -29,7 +29,8 @@ Mac用教材フォルダへの提出（アップロードツール）工大あ�
 お問い合わせ
 
 
-### <div id="winbasic">Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。</div>
+### 
+**<div id="winbasic">Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。</div>**
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WkTJBk9QWws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
