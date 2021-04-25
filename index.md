@@ -9,24 +9,25 @@ Windows用の説明の後に、Mac用があります
 
 ## 目次
 - [Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。](#winbasic)
-- Surface, Surface Laptop, Surface Book用キーボード設定
-- Windows用 Officeインストール動画
-- Adobe Readerのインストール
-- VPN接続ツールのインストールと設定
-- ネットワークドライブ（教材フォルダ）接続ツールのインストール
-- 教材フォルダからのファイル取得（ダウンロード）方法
-- 教材フォルダへのファイル提出（アップロード）方法
-- 大学プリンタのインストール・設定方法
+- [Surface, Surface Laptop, Surface Book用キーボード設定](#surface)
+- [Windows用 Officeインストール動画](#winoffice)
+- [Adobe Readerのインストール](#winadobe)
+- [VPN接続ツールのインストールと設定](#winvpn)
+- [ネットワークドライブ（教材フォルダ）接続ツールのインストール](#windrive)
+- [教材フォルダからのファイル取得（ダウンロード）方法](#windownload)
+- [教材フォルダへのファイル提出（アップロード）方法](#winupload)
+- [大学プリンタのインストール・設定方法](#winprinter)
 
 ### ここからMac用の案内です
-Mac用 Officeインストール動画
-Adobe Readerのインストール(Mac)
-Mac用 VPNツールのインストールと設定
-MacでFinderを使用した教材フォルダからのファイルダウンロード方法（VDIよりこちらを推奨）
-MacでVDIを利用した教材フォルダからのファイルダウンロード方法
-Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方
-大学プリンタのインストール・設定方法
-お問い合わせ
+- [Mac用 Officeインストール動画](#macoffice)
+- [Adobe Readerのインストール(Mac)](#macadobe)
+- [Mac用 VPNツールのインストールと設定](#macvpn)
+- [MacでFinderを使用した教材フォルダからのファイルダウンロード方法（VDIよりこちらを推奨）](#macdrive)
+- [MacでVDIを利用した教材フォルダからのファイルダウンロード方法](#macvdi)
+- [Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方](#macupload)
+- [大学プリンタのインストール・設定方法](#macprinter)
+
+- [お問い合わせ](#contact)
 
 
 ### 
@@ -66,5 +67,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 `Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mokoneko/oit-pc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 `
 ### 連絡先
-各キャンパスの情報センター窓口まで
+<div id="winbasic">各キャンパスの情報センター窓口まで</div>
 
