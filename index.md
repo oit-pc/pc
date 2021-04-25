@@ -41,6 +41,34 @@ Windows用の説明の後に、Mac用があります
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Xmogjmm0IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <br />
+<div id="surface"></div>
+**Windows用 Officeインストール動画**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3MivoKECk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+<br />
+<div id="winadobe"></div>
+**Adobe Readerのインストール**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k-p0ilDfL3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+<br />
+<div id="windrive"></div>
+**ネットワークドライブ（教材フォルダ）接続ツールのインストール**
+<br />
+<br />
+<div id="windownload"></div>
+**教材フォルダからのファイル取得（ダウンロード）方法**
+<br />
+<br />
+<div id="windownupload"></div>
+**教材フォルダへのファイル提出（アップロード）方法**
+<br />
+<br />
+<div id="winprinter"></div>
+**大学プリンタのインストール・設定方法**
+
+<br />
+<br />
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
