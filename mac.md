@@ -2,6 +2,13 @@
 title:  "大阪工業大学 ノートPCサポートサイト:Mac"
 is_project_page: false
 ---
+<style>
+        img, iframe {
+            display: block;
+            margin: 0 auto;
+        }
+</style>
+
 # 大阪工業大学 ノートPCサポートサイト:Mac
 
 ### ここでは、ノートPCの設定用動画を公開しています。（2021年用）
