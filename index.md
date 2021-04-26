@@ -12,10 +12,10 @@ is_project_page: false
 また、短縮URL **http://is.gd/oitpc** でもアクセスできます。
 <br>
 <br>
-[Windows用ページ](windows.html) <img src="animal_chara_computer_penguin.png">
+[Windows用ページはこちら](windows.html)<!-- <img src="animal_chara_computer_penguin.png"> -->
 <br />
 <br />
-[Mac用ページ](mac.html) <img src="amaebi_computer.png">
+[Mac用ページはこちら](mac.html) <!-- <img src="amaebi_computer.png"> -->
 <br>
 <br />
 ## 目次（参考）
