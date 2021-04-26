@@ -96,13 +96,13 @@ is_project_page: false
 <br />
 プリンタを参照するアドレスは、次の通りです。この動画では、大宮キャンパスを例に説明しています。<br />
 <br />
-大宮キャンパス：<strong>\\o-prspl01.ad.oit.ac.jp</strong><br />
+大宮キャンパス：<strong>\\\\o-prspl01.ad.oit.ac.jp</strong><br />
 <br />
-梅田キャンパス：<strong>\\u-prspl01.ad.oit.ac.jp</strong><br />
+梅田キャンパス：<strong>\\\\u-prspl01.ad.oit.ac.jp</strong><br />
 <br />
-枚方キャンパス：<strong>\\h-prspl01.ad.oit.ac.jp</strong><br />
+枚方キャンパス：<strong>\\\\h-prspl01.ad.oit.ac.jp</strong><br />
 <br />
-（画面上では \\ になっていますが、そのままコピペするとWindows上では￥マークになります）<br />
+（画面上では \\\\ になっていますが、そのままコピペするとWindows上では￥マークになります）<br />
 <br />
 また、プリンタ機種もキャンパスによって異なります。大宮キャンパスと枚方キャンパスはこの動画例のようにC3375ですが、梅田キャンパスはApeosPort V C3376, ApeosPort V C2276になります。<br>
 <br>
