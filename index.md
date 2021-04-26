@@ -12,7 +12,9 @@ is_project_page: false
 また、短縮URL **http://is.gd/oitpc** でもアクセスできます。
 <br>
 Windows用の説明の後に、Mac用があります
-
+<br>
+[windows用](windows.md)
+<br>
 ## 目次
 ### Windows PC
 - [Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。](#winbasic)
