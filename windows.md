@@ -2,6 +2,13 @@
 title:  "大阪工業大学 ノートPCサポートサイト: Windows用"
 is_project_page: false
 ---
+<style>
+        img, iframe {
+            display: block;
+            margin: 0 auto;
+        }
+</style>
+
 # 大阪工業大学 ノートPCサポートサイト: Windows用
 
 ### Windows用の設定動画集です（2021年用）
