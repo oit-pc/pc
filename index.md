@@ -75,12 +75,13 @@ Windows用の説明の後に、Mac用があります
 <br>
 アクセス先: [http://s.oit.ac.jp/dw](http://s.oit.ac.jp/dw) <strong><span style="color: red; ">学外からはVPN接続が必要</span></font></strong>
 <br />
-**※「NetDrvConn.exeはお使いのデバイスに問題を起こす可能性があるため、ブロックされました。」** とエラーが出る場合は、この場合は、次の手段に従ってください。そうすると、ダウンロードされ補助資料にあるように、フォルダに表示されます。（動画内でも説明済みです）
+<br />
+<strong><span style="color: red; ">※「NetDrvConn.exeはお使いのデバイスに問題を起こす可能性があるため、ブロックされました。」</span></font>とエラーが出る場合は、この場合は、次の手段に従ってください。そうすると、ダウンロードされ補助資料にあるように、フォルダに表示されます。（動画内でも説明済みです）
 <br>
 <br />
 <img src="smart.png">
 <br>
-
+<br>
 <div id="windownload"></div>
 
 ### **教材フォルダからのファイル取得（ダウンロード）方法**
