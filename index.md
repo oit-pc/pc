@@ -45,3 +45,5 @@ is_project_page: false
 
 ### お問い合わせ
 <div id="contact">各キャンパスの情報センター窓口まで</div>
+<br>
+作成：大阪工業大学　情報センター教員
