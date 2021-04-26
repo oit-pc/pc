@@ -2,6 +2,38 @@
 title:  "大阪工業大学 ノートPCサポートサイト"
 is_project_page: false
 ---
+
+<style>
+  
+#winmac {
+  display: flex;
+  justify-content: space-around;
+}
+
+#winmac > a {
+    font-size: 30pt;
+    border: 0;
+    padding: 5rem;
+    
+    width: 400px;
+    height: 50px;
+
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+#win {
+  background-color: hsl(120, 60%, 40%);
+}
+
+#mac {
+  background-color: hsl(29, 60%, 50%);  
+}
+
+  
+</style>
+
 # 大阪工業大学 ノートPCサポートサイト
 
 ### ここでは、ノートPCの設定用動画を公開しています。（2021年用）
@@ -11,13 +43,23 @@ is_project_page: false
 <br>
 また、短縮URL **http://is.gd/oitpc** でもアクセスできます。
 <br>
+<div id="winmac">
+    <a href="windows.html" id="win">
+    Windows
+    </a>
+    <a href="mac.html" id="mac">
+    Mac
+    </a>
+</div>
+<!--
 <br>
-[Windows用ページはこちら](windows.html)<!-- <img src="animal_chara_computer_penguin.png"> -->
+[Windows用ページはこちら](windows.html)
 <br />
 <br />
-[Mac用ページはこちら](mac.html) <!-- <img src="amaebi_computer.png"> -->
+[Mac用ページはこちら](mac.html)
 <br>
 <br />
+-->
 ## 目次（参考）
 ### Windows PC
 - Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。
