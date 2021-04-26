@@ -17,6 +17,7 @@ is_project_page: false
 <br />
 [Mac用ページ](mac.html) <img src="amaebi_computer.png">
 <br>
+<br />
 ## 目次（参考）
 ### Windows PC
 - Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。
