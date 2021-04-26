@@ -14,6 +14,7 @@ is_project_page: false
 Windows用の説明の後に、Mac用があります
 
 ## 目次
+### Windows PC
 - [Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。](#winbasic)
 - [Surface, Surface Laptop, Surface Book用キーボード設定](#surface)
 - [Windows用 Officeインストール動画](#winoffice)
@@ -24,7 +25,7 @@ Windows用の説明の後に、Mac用があります
 - [教材フォルダへのファイル提出（アップロード）方法](#winupload)
 - [大学プリンタのインストール・設定方法](#winprinter)
 
-### ここからMac用の案内です
+### MacBook
 - [Mac用 Officeインストール動画](#macoffice)
 - [Adobe Readerのインストール(Mac)](#macadobe)
 - [Mac用 VPNツールのインストールと設定](#macvpn)
@@ -78,6 +79,12 @@ Windows用の説明の後に、Mac用があります
 <br />
 <strong><span style="color: red; ">※「NetDrvConn.exeはお使いのデバイスに問題を起こす可能性があるため、ブロックされました。」</span></strong>とエラーが出る場合は、この場合は、次の手段に従ってください。そうすると、ダウンロードされ補助資料にあるように、フォルダに表示されます。（動画内でも説明済みです）
 <br>
+<br />
+<img src="netdrv.png">
+<br>
+<br />
+また、動画3:06あたりから説明していますが「WindowsによってPCが保護されました」と出た場合は、「詳細情報」をクリックし、次に「実行」をクリックしてください。1度実施すればこの画面は再度は出てきません。
+<br />
 <br />
 <img src="smart.png">
 <br>
