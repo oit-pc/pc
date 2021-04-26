@@ -4,14 +4,15 @@ is_project_page: false
 ---
 # 大阪工業大学 ノートPCサポートサイト: Windows用
 
-### ここでは、ノートPCの設定用動画を公開しています。（2021年用）
-スマートフォンやタブレットを使用してこのサイトを見るには、下のQRコードを読み取って下さい。
+### Windows用の設定動画集です（2021年用）
+<!--
+スマートフォンやタブレットを使用してこのサイトを見るには、下のQRコードを読み取って下さい。（トップページに飛びます）
 <br>
 <img src="github_qr.png">
 <br>
 また、短縮URL **http://is.gd/oitpc** でもアクセスできます。
 <br>
-
+-->
 ## 目次
 ### Windows PC
 - [Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。](#winbasic)
@@ -82,17 +83,34 @@ is_project_page: false
 <div id="windownload"></div>
 
 ### **教材フォルダからのファイル取得（ダウンロード）方法**
-<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_aFL-sVxyKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br />
 <div id="windownupload"></div>
 ### **教材フォルダへのファイル提出（アップロード）方法**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fa3exZ9HnT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
 <div id="winprinter"></div>
 ### **大学プリンタのインストール・設定方法**
+<br />
+プリンタを参照するアドレスは、次の通りです。この動画では、大宮キャンパスを例に説明しています。<br />
+<br />
+大宮キャンパス：<strong>\\o-prspl01.ad.oit.ac.jp</strong><br />
+<br />
+梅田キャンパス：<strong>\\u-prspl01.ad.oit.ac.jp</strong><br />
+<br />
+枚方キャンパス：<strong>\\h-prspl01.ad.oit.ac.jp</strong><br />
+<br />
+（画面上では \\ になっていますが、そのままコピペするとWindows上では￥マークになります）<br />
+<br />
+また、プリンタ機種もキャンパスによって異なります。大宮キャンパスと枚方キャンパスはこの動画例のようにC3375ですが、梅田キャンパスはApeosPort V C3376, ApeosPort V C2276になります。<br>
+<br>
+<strong>※この動画内の7:40から15秒程度が真っ暗になっていますが、実際にこの手順で実行すると「このアプリがデバイスに変更を加えることを許可しますか」という表示が出ます。この時には「はい」を選択して下さい。</strong><br>
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YBA7cqKn8tY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
-
 ---
 
 ### お問い合わせ
