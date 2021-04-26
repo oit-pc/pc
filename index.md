@@ -73,10 +73,10 @@ Windows用の説明の後に、Mac用があります
 ### **ネットワークドライブ（教材フォルダ）接続ツールのインストール**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oFUTSmyQUxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-アクセス先: [http://s.oit.ac.jp/dw](http://s.oit.ac.jp/dw) <strong><span style="color: red; ">学外からはVPN接続が必要</span></font></strong>
+アクセス先: [http://s.oit.ac.jp/dw](http://s.oit.ac.jp/dw) <strong><span style="color: red; ">学外からはVPN接続が必要</span></strong>
 <br />
 <br />
-<strong><span style="color: red; ">※「NetDrvConn.exeはお使いのデバイスに問題を起こす可能性があるため、ブロックされました。」</span></font>とエラーが出る場合は、この場合は、次の手段に従ってください。そうすると、ダウンロードされ補助資料にあるように、フォルダに表示されます。（動画内でも説明済みです）
+<strong><span style="color: red; ">※「NetDrvConn.exeはお使いのデバイスに問題を起こす可能性があるため、ブロックされました。」</span></strong>とエラーが出る場合は、この場合は、次の手段に従ってください。そうすると、ダウンロードされ補助資料にあるように、フォルダに表示されます。（動画内でも説明済みです）
 <br>
 <br />
 <img src="smart.png">
