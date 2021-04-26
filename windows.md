@@ -36,6 +36,7 @@ is_project_page: false
 
 <div id="surface"></div>
 ### **Surface, Surface Laptop, Surface Book用キーボード設定**
+※Microsoft Surfaceシリーズを購入した人は、必ずこの設定を行って下さい。他メーカのPCを購入した人は不要です。<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Xmogjmm0IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <br />
