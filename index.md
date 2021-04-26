@@ -58,17 +58,30 @@ Windows用の説明の後に、Mac用があります
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k-p0ilDfL3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <br />
-<div id="windrive"></div>
-### **ネットワークドライブ（教材フォルダ）接続ツールのインストール**
+<div id="winvpn"></div>
+### **VPN接続ツールのインストールと設定**
 <br>
 **注意：VPNツールのインストール時には、かなり下の方にある「FortiClient VPN」をダウンロードしてください。**
+<br>
 <br>
 <img src="fortivpn.png">
   <br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/K3YwWlWieGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
+<div id="windrive"></div>
+### **ネットワークドライブ（教材フォルダ）接続ツールのインストール**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFUTSmyQUxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+アクセス先: [http://s.oit.ac.jp/dw](http://s.oit.ac.jp/dw) **学外からはVPN接続が必要**
+<br>
+**※「NetDrvConn.exeはお使いのデバイスに問題を起こす可能性があるため、ブロックされました。」** とエラーが出る場合は、この場合は、次の手段に従ってください。そうすると、ダウンロードされ補助資料にあるように、フォルダに表示されます。（動画内でも説明済みです）
+<br>
+<img src="smart.png">
+<br>
+
 <div id="windownload"></div>
+
 ### **教材フォルダからのファイル取得（ダウンロード）方法**
 <br />
 
