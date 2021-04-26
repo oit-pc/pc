@@ -13,7 +13,9 @@ is_project_page: false
 <br>
 Windows用の説明の後に、Mac用があります
 <br>
-[windows用](windows.md)
+[Windows用](windows.html)
+<br>
+[Mac用](mac.html)
 <br>
 ## 目次
 ### Windows PC
