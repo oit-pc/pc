@@ -1,3 +1,11 @@
+---
+title:  "大阪工業大学 ノートPCサポートサイト:Mac"
+is_project_page: false
+---
+# 大阪工業大学 ノートPCサポートサイト:Mac
+
+### ここでは、ノートPCの設定用動画を公開しています。（2021年用）
+
 ### MacBook
 - [Mac用 Officeインストール動画](#macoffice)
 - [Adobe Readerのインストール(Mac)](#macadobe)
