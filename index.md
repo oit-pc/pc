@@ -82,6 +82,7 @@ Windows用の説明の後に、Mac用があります
 <br />
 
 ---
+
 <div id="macoffice"></div>
 ### **Mac用 Officeインストール動画**
 
@@ -110,7 +111,9 @@ Windows用の説明の後に、Mac用があります
 ### **大学プリンタのインストール・設定方法**
 
 <br />
+
 ---
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -133,14 +136,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-`### Jekyll Themes
-`
-`Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mokoneko/oit-pc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-`
-### 連絡先
+
+### お問い合わせ
 <div id="contact">各キャンパスの情報センター窓口まで</div>
 
