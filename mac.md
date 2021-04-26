@@ -50,4 +50,6 @@ is_project_page: false
 
 ---
 ### お問い合わせ
-<div id="contact">各キャンパスの情報センター窓口まで</div>
+<div id="contact">各キャンパスの情報センター窓口まで</div><br>
+<br>
+[Back](index.html)
