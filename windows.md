@@ -116,4 +116,5 @@ is_project_page: false
 
 ### お問い合わせ
 <div id="contact">各キャンパスの情報センター窓口まで</div>
-
+<br>
+[Back](index.html)
