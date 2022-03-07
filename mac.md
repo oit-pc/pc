@@ -11,14 +11,14 @@ is_project_page: false
 
 # 大阪工業大学 ノートPCサポートサイト:Mac
 
-### ここでは、ノートPCの設定用動画を公開しています。（2021年用）
+### ここでは、ノートPCの設定用動画を公開しています。（2022年用）
 
 ### MacBook
 - [Mac用 Officeインストール動画](#macoffice)
-- [Adobe Readerのインストール(Mac)](#macadobe)
+<!-- - [Adobe Readerのインストール(Mac)](#macadobe) -->
 - [Mac用 VPNツールのインストールと設定](#macvpn)
-- [MacでFinderを使用した教材フォルダからのファイルダウンロード方法（VDIよりこちらを推奨）](#macdrive)
-- [MacでVDIを利用した教材フォルダからのファイルダウンロード方法](#macvdi)
+- [MacでFinderを使用した教材フォルダからのファイルダウンロード方法](#macdrive)
+<!-- - [MacでVDIを利用した教材フォルダからのファイルダウンロード方法](#macvdi) -->
 - [Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方](#macupload)
 - [大学プリンタのインストール・設定方法](#macprinter)
 
@@ -30,16 +30,21 @@ is_project_page: false
 ### **Mac用 Officeインストール動画**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixY0N-cW2NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
+
+<!--
 <div id="macadobe"></div>
 ### **Adobe Readerのインストール(Mac)**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XID7LifcELo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
+-->
+
 <div id="macvpn"></div>
 ### **Mac用 VPNツールのインストールと設定**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gDqde0WH7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
+
 <div id="macdrive"></div>
-### **MacでFinderを使用した教材フォルダからのファイルダウンロード方法（VDIよりこちらを推奨）**
+### **MacでFinderを使用した教材フォルダからのファイルダウンロード方法**
 <br>
 VDIは学外からVPN不要で接続できるのですが、時間がかかります。そのため、標準のFinderを使用した方法を紹介します。<br>
 ただし、もし自宅などの学外から接続する場合は、まずVPN接続を行ってください。<br>
@@ -48,9 +53,11 @@ VDIは学外からVPN不要で接続できるのですが、時間がかかり�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HpD5BUFkPB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <div id="macvdi"></div>
+<!--
 ### **MacでVDIを利用した教材フォルダからのファイルダウンロード方法**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RpNP85y8LB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
+-->
 <div id="macupload"></div>
 ### **Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方**
 資料　※学内からのみ。自宅等からは要VPN接続<br />
@@ -58,7 +65,7 @@ VDIは学外からVPN不要で接続できるのですが、時間がかかり�
 <br />
 ダウンロードリンク　※学内からのみ。自宅等からは要VPN接続<br />
 <br />
-macOS Big Sur版　※通常はこちら<br />
+macOS Monterey, Big Sur版　※通常はこちら<br />
 [https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader1.1.zip](https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader1.1.zip)<br />
 <br />
 Catalina以前版　旧バージョンの場合<br />
