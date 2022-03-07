@@ -11,7 +11,7 @@ is_project_page: false
 
 # 大阪工業大学 ノートPCサポートサイト: Windows用
 
-### Windows用の設定動画集です（2021年用）
+### Windows用の設定動画集です（2022年用）
 <!--
 スマートフォンやタブレットを使用してこのサイトを見るには、下のQRコードを読み取って下さい。（トップページに飛びます）
 <br>
@@ -22,8 +22,8 @@ is_project_page: false
 -->
 ## 目次
 ### Windows PC
-- [Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。](#winbasic)
-- [Surface, Surface Laptop, Surface Book用キーボード設定](#surface)
+<!-- - [Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。](#winbasic) 
+- [Surface, Surface Laptop, Surface Book用キーボード設定](#surface) -->
 - [Windows用 Officeインストール動画](#winoffice)
 - [Adobe Readerのインストール](#winadobe)
 - [VPN接続ツールのインストールと設定](#winvpn)
@@ -35,7 +35,7 @@ is_project_page: false
 - [お問い合わせ](#contact)
 
 ---
-
+<!--
 <div id="winbasic"></div>
 ### **Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WkTJBk9QWws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,9 +47,12 @@ is_project_page: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Xmogjmm0IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <br />
+-->
 <div id="winoffice"></div>
 ### **Windows用 Officeインストール動画**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3MivoKECk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3MivoKECk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8sKZru67_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 
