@@ -62,8 +62,8 @@ is_project_page: false
 -->
 ## 目次（参考）
 ### Windows PC
-<!-- - Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。
-- Surface, Surface Laptop, Surface Book用キーボード設定 -->
+<!-- - Windowsの基本操作：PCに不慣れな人はこの動画をまず見ておきましょう。-->
+<!-- - Surface, Surface Laptop, Surface Book用キーボード設定 -->
 - Windows用 Officeインストール動画
 - Adobe Readerのインストール
 - VPN接続ツールのインストールと設定
@@ -74,8 +74,7 @@ is_project_page: false
 
 ### MacBook
 - Mac用 Officeインストール動画
-<!--
-- Adobe Readerのインストール(Mac) -->
+<!-- - Adobe Readerのインストール(Mac) -->
 - Mac用 VPNツールのインストールと設定
 - MacでFinderを使用した教材フォルダからのファイルダウンロード方法
 <!-- - MacでVDIを利用した教材フォルダからのファイルダウンロード方法 -->
