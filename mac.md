@@ -46,8 +46,9 @@ is_project_page: false
 <div id="macdrive"></div>
 ### **MacでFinderを使用した教材フォルダからのファイルダウンロード方法**
 <br>
-VDIは学外からVPN不要で接続できるのですが、時間がかかります。そのため、標準のFinderを使用した方法を紹介します。<br>
-ただし、もし自宅などの学外から接続する場合は、まずVPN接続を行ってください。<br>
+<!-- VDIは学外からVPN不要で接続できるのですが、時間がかかります。そのため、標準のFinderを使用した方法を紹介します。<br>
+ただし、もし -->
+自宅などの学外から接続する場合は、まずVPN接続を行ってください。<br>
 途中で入力しているサーバのアドレスは次の通りです。 <strong>smb://o-file001.ad.oit.ac.jp/common/</strong><br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HpD5BUFkPB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -64,13 +65,16 @@ VDIは学外からVPN不要で接続できるのですが、時間がかかり�
 [https://www.oit.ac.jp/japanese/center/inside/uploader/manual.pdf](https://www.oit.ac.jp/japanese/center/inside/uploader/manual.pdf)<br />
 <br />
 ダウンロードリンク　※学内からのみ。自宅等からは要VPN接続<br />
+[https://s.oit.ac.jp/upld11](https://s.oit.ac.jp/upld11)<br />
 <br />
+<!--
 macOS Monterey, Big Sur版　※通常はこちら<br />
 [https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader1.1.zip](https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader1.1.zip)<br />
 <br />
 Catalina以前版　旧バージョンの場合<br />
 [https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader.zip](https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader.zip)<br />
 <br />
+-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R6zT_dZ8SIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
