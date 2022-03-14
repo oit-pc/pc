@@ -33,6 +33,7 @@ is_project_page: false
 -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ghCGU231poY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
+※ちょっと画面が黄色みがかってますが、気にしないでください。
 
 <!--
 <div id="macadobe"></div>
