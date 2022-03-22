@@ -58,12 +58,14 @@ is_project_page: false
 
 <div id="winadobe"></div>
 ### **Adobe Readerのインストール**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k-p0ilDfL3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cteF-k_hucE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <br />
 <div id="winvpn"></div>
 ### **VPN接続ツールのインストールと設定**
 <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odQVZRQDK5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--
 **注意：VPNツールのインストール時には、かなり下の方にある「FortiClient VPN」をダウンロードしてください。**
 <br>
 <br>
@@ -71,10 +73,10 @@ is_project_page: false
   <br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/K3YwWlWieGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-
+-->
 <div id="windrive"></div>
 ### **ネットワークドライブ（教材フォルダ）接続ツールのインストール**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oFUTSmyQUxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OQiDjePnWU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 アクセス先: [http://s.oit.ac.jp/dw](http://s.oit.ac.jp/dw) <strong><span style="color: red; ">学外からはVPN接続が必要</span></strong>
 <br />
