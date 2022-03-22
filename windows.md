@@ -121,7 +121,7 @@ is_project_page: false
 <br> <!--
 <strong>※この動画内の7:40から15秒程度が真っ暗になっていますが、実際にこの手順で実行すると「このアプリがデバイスに変更を加えることを許可しますか」という表示が出ます。この時には「はい」を選択して下さい。</strong><br> -->
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YBA7cqKn8tY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6YLlPtpplmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 ---
