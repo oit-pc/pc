@@ -95,12 +95,12 @@ is_project_page: false
 <br>
 <div id="windownload"></div>
 
-### **教材フォルダからのファイル取得（ダウンロード）方法**
+### **※参考 教材フォルダからのファイル取得（ダウンロード）方法**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aFL-sVxyKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 <div id="windownupload"></div>
-### **教材フォルダへのファイル提出（アップロード）方法**
+### **※参考 教材フォルダへのファイル提出（アップロード）方法**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fa3exZ9HnT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
@@ -115,11 +115,11 @@ is_project_page: false
 <br />
 枚方キャンパス：<strong>\\\\h-prspl01.ad.oit.ac.jp</strong><br />
 <br />
-（画面上では \\\\ になっていますが、そのままコピペするとWindows上では￥マークになります）<br />
+（画面上では \\\\ になっていますが、そのままコピー＆貼り付けを実行するとWindows上では￥マークになります）<br />
 <br />
 また、プリンタ機種もキャンパスによって異なります。大宮キャンパスと枚方キャンパスはこの動画例のようにC3375ですが、梅田キャンパスはApeosPort V C3376, ApeosPort V C2276になります。<br>
-<br>
-<strong>※この動画内の7:40から15秒程度が真っ暗になっていますが、実際にこの手順で実行すると「このアプリがデバイスに変更を加えることを許可しますか」という表示が出ます。この時には「はい」を選択して下さい。</strong><br>
+<br> <!--
+<strong>※この動画内の7:40から15秒程度が真っ暗になっていますが、実際にこの手順で実行すると「このアプリがデバイスに変更を加えることを許可しますか」という表示が出ます。この時には「はい」を選択して下さい。</strong><br> -->
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YBA7cqKn8tY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
