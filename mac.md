@@ -72,16 +72,6 @@ is_project_page: false
 ダウンロードリンク　※学内からのみ。自宅等からは要VPN接続<br />
 [https://s.oit.ac.jp/upld11](https://s.oit.ac.jp/upld11)<br />
 <br />
-<!--
-macOS Monterey, Big Sur版　※通常はこちら<br />
-[https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader1.1.zip](https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader1.1.zip)<br />
-<br />
-Catalina以前版　旧バージョンの場合<br />
-[https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader.zip](https://www.oit.ac.jp/japanese/center/inside/uploader/post_uploader.zip)<br />
-<br />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R6zT_dZ8SIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUk5bk-eurE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
