@@ -58,7 +58,7 @@ is_project_page: false
 <br>
 <!-- VDIは学外からVPN不要で接続できるのですが、時間がかかります。そのため、標準のFinderを使用した方法を紹介します。<br>
 ただし、もし -->
-自宅などの学外から接続する場合は、まずVPN接続を行ってください。<br>
+自宅などの学外から接続する場合は、まずVPN接続を行ってください。<br />
 途中で入力しているサーバのアドレスは次の通りです。 <strong>smb://o-file001.ad.oit.ac.jp/common/</strong><br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qf9WoCJglUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
