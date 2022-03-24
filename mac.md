@@ -63,13 +63,7 @@ is_project_page: false
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qf9WoCJglUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-<!--
-<div id="macvdi"></div>
 
-### **MacでVDIを利用した教材フォルダからのファイルダウンロード方法**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RpNP85y8LB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br />
--->
 <div id="macupload"></div>
 ### **Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方**
 資料　※学内からのみ。自宅等からは要VPN接続<br />
