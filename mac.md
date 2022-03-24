@@ -47,6 +47,9 @@ is_project_page: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gDqde0WH7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
+アクセス先: [https://s.oit.ac.jp/wfvc](https://s.oit.ac.jp/wfvc)<br>
+<br>
+
 <div id="macdrive"></div>
 ### **MacでFinderを使用した教材フォルダからのファイルダウンロード方法**
 <br>
