@@ -84,7 +84,7 @@ is_project_page: false
 <br>
 プリンタドライバアクセス先：[https://www.fujifilm.com/fb/download](https://www.fujifilm.com/fb/download)<br />
 <br />
-また、最新のmacOS 13 Venturaを選択するとプリンタドライバがないのですが、1つ前のMonterey用のプリンタドライバで動作するので、Venturaの人もMontereyにしてください。
+<strong>また、最新のmacOS 13 Venturaを選択するとプリンタドライバがないのですが、1つ前のMonterey用のプリンタドライバで動作するので、Venturaの人もMontereyにしてください。</strong>
 <br>
 <img src="macos_printer.png">
 <br>
