@@ -83,6 +83,10 @@ is_project_page: false
 プリンタ機種はキャンパスによって異なります。大宮キャンパスと枚方キャンパスはこの動画例のようにC3375ですが、梅田キャンパスはApeosPort V C3376, ApeosPort V C2276になります。<br>
 <br>
 プリンタドライバアクセス先：[https://www.fujifilm.com/fb/download](https://www.fujifilm.com/fb/download)<br />
+<br />
+また、最新のmacOS 13 Venturaを選択するとプリンタドライバがないのですが、1つ前のMonterey用のプリンタドライバで動作するので、Venturaの人もMontereyにしてください。
+<img src="macos_printer.png">
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oqy6qVsxcFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
