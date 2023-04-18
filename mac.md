@@ -86,9 +86,14 @@ is_project_page: false
 <br />
 <strong>また、最新のmacOS 13 Venturaを選択するとプリンタドライバがないのですが、1つ前のMonterey用のプリンタドライバで動作するので、Venturaの人もMontereyにしてください。</strong>
 <br>
+<br>
 <img src="macos_printer.png">
 <br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1K1SIFWNzho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oqy6qVsxcFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 <br />
 
 ---
