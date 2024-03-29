@@ -80,6 +80,7 @@ is_project_page: false
 <div id="macprinter"></div>
 ### **大学プリンタのインストール・設定方法**
 <br>
+<!--
 プリンタ機種はキャンパスによって異なります。大宮キャンパスと枚方キャンパスはこの動画例のようにC3375ですが、梅田キャンパスはApeosPort V C3376, ApeosPort V C2276になります。<br>
 <br>
 プリンタドライバアクセス先：[https://www.fujifilm.com/fb/download](https://www.fujifilm.com/fb/download)<br />
@@ -91,9 +92,11 @@ is_project_page: false
 <br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1K1SIFWNzho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oqy6qVsxcFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 -->
+プリンタ設定は、情報センターのWebサイト案内も必ず確認してください。<br>
+<a href="https://www.oit.ac.jp/japanese/center/printer.html">https://www.oit.ac.jp/japanese/center/printer.html</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rkM7kuskBKY?si=-5diTuj8Ue5T1GCB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
 
 ---
