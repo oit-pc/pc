@@ -27,9 +27,10 @@ is_project_page: false
 - [Windows用 Officeインストール動画](#winoffice)
 - [Adobe Readerのインストール](#winadobe)
 - [VPN接続ツールのインストールと設定](#winvpn)
-- [ネットワークドライブ（教材フォルダ）接続ツールのインストール](#windrive)
+<!--
+- [ネットワークドライブ（教材フォルダ）接続ツールのインストール](#windrive) 
 - [教材フォルダからのファイル取得（ダウンロード）方法](#windownload)
-- [教材フォルダへのファイル提出（アップロード）方法](#winupload)
+- [教材フォルダへのファイル提出（アップロード）方法](#winupload) -->
 - [大学プリンタのインストール・設定方法](#winprinter)
 
 - [お問い合わせ](#contact)
@@ -76,6 +77,7 @@ is_project_page: false
   <iframe width="560" height="315" src="https://www.youtube.com/embed/K3YwWlWieGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 -->
+<!--
 <div id="windrive"></div>
 ### **ネットワークドライブ（教材フォルダ）接続ツールのインストール**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQiDjePnWU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -105,10 +107,11 @@ is_project_page: false
 ### **※参考 教材フォルダへのファイル提出（アップロード）方法**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fa3exZ9HnT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-
+-->
 <div id="winprinter"></div>
 ### **大学プリンタのインストール・設定方法**
 <br />
+<!--
 プリンタを参照するアドレスは、次の通りです。この動画では、大宮キャンパスを例に説明しています。<br />
 <br />
 大宮キャンパス：<strong>\\\\o-prspl01.ad.oit.ac.jp</strong><br />
@@ -124,7 +127,8 @@ is_project_page: false
 <strong>※この動画内の7:40から15秒程度が真っ暗になっていますが、実際にこの手順で実行すると「このアプリがデバイスに変更を加えることを許可しますか」という表示が出ます。この時には「はい」を選択して下さい。</strong><br> -->
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YLlPtpplmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fjUinomNsoo?si=P5mszKp21g5DMJnZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
 ---
 
