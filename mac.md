@@ -17,9 +17,9 @@ is_project_page: false
 - [Mac用 Officeインストール動画](#macoffice)
 <!-- - [Adobe Readerのインストール(Mac)](#macadobe) -->
 - [Mac用 VPNツールのインストールと設定](#macvpn)
-- [MacでFinderを使用した教材フォルダからのファイルダウンロード方法](#macdrive)
+<!-- - [MacでFinderを使用した教材フォルダからのファイルダウンロード方法](#macdrive) -->
 <!-- - [MacでVDIを利用した教材フォルダからのファイルダウンロード方法](#macvdi) -->
-- [Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方](#macupload)
+<!-- - [Mac用教材フォルダへの提出（アップロードツール）工大あぷろだPOSTのインストールと使い方](#macupload) -->
 - [大学プリンタのインストール・設定方法](#macprinter)
 
 - [お問い合わせ](#contact)
@@ -53,11 +53,10 @@ is_project_page: false
 アクセス先: [https://s.oit.ac.jp/mfvc](https://s.oit.ac.jp/mfvc)<br>
 <br>
 
+<!-- 
 <div id="macdrive"></div>
 ### **MacでFinderを使用した教材フォルダからのファイルダウンロード方法**
 <br>
-<!-- VDIは学外からVPN不要で接続できるのですが、時間がかかります。そのため、標準のFinderを使用した方法を紹介します。<br>
-ただし、もし -->
 自宅などの学外から接続する場合は、まずVPN接続を行ってください。<br />
 途中で入力しているサーバのアドレスは次の通りです。 <strong>smb://o-file001.ad.oit.ac.jp/common/</strong><br>
 <br>
@@ -77,6 +76,8 @@ is_project_page: false
 
 <br />
 
+-->
+
 <div id="macprinter"></div>
 ### **大学プリンタのインストール・設定方法**
 <br>
@@ -93,6 +94,7 @@ is_project_page: false
 <br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1K1SIFWNzho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 -->
 
 プリンタ設定は、情報センターのWebサイト案内も必ず確認してください。<br>
