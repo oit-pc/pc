@@ -67,10 +67,11 @@ is_project_page: false
 <div id="winprinter"></div>
 ### **大学プリンタのインストール・設定方法**
 <br />
+アクセス先：<a href="http://s.oit.ac.jp/pr24o">http://s.oit.ac.jp/pr24o</a><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjUinomNsoo?si=P5mszKp21g5DMJnZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
-アクセス先：<a href="http://s.oit.ac.jp/pr24o">http://s.oit.ac.jp/pr24o</a><br>
+
 ---
 
 ### お問い合わせ
