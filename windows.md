@@ -27,10 +27,6 @@ is_project_page: false
 - [Windows用 Officeインストール動画](#winoffice)
 - [Adobe Readerのインストール](#winadobe)
 - [VPN接続ツールのインストールと設定](#winvpn)
-<!--
-- [ネットワークドライブ（教材フォルダ）接続ツールのインストール](#windrive) 
-- [教材フォルダからのファイル取得（ダウンロード）方法](#windownload)
-- [教材フォルダへのファイル提出（アップロード）方法](#winupload) -->
 - [大学プリンタのインストール・設定方法](#winprinter)
 
 - [お問い合わせ](#contact)
@@ -68,66 +64,9 @@ is_project_page: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/odQVZRQDK5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 アクセス先: [https://s.oit.ac.jp/wfvc](https://s.oit.ac.jp/wfvc)<br>
 
-<!--
-**注意：VPNツールのインストール時には、かなり下の方にある「FortiClient VPN」をダウンロードしてください。**
-<br>
-<br>
-<img src="fortivpn.png">
-  <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/K3YwWlWieGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br />
--->
-<!--
-<div id="windrive"></div>
-### **ネットワークドライブ（教材フォルダ）接続ツールのインストール**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OQiDjePnWU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-アクセス先: [https://s.oit.ac.jp/dw](https://s.oit.ac.jp/dw) <strong><span style="color: red; ">学外からはVPN接続が必要</span></strong>
-<br />
-<br />
-<strong><span style="color: red; ">※「NetDrvConn.exeはお使いのデバイスに問題を起こす可能性があるため、ブロックされました。」</span></strong>とエラーが出る場合は、この場合は、次の手段に従ってください。そうすると、ダウンロードされ補助資料にあるように、フォルダに表示されます。（動画内でも説明済みです）
-<br>
-<br />
-<img src="netdrv.png">
-<br>
-<br />
-また、「WindowsによってPCが保護されました」と出た場合は、「詳細情報」をクリックし、次に「実行」をクリックしてください。1度実施すればこの画面は再度は出てきません。
-<br />
-<br />
-<img src="smart.png">
-<br>
-<br>
-<div id="windownload"></div>
-
-### **※参考 教材フォルダからのファイル取得（ダウンロード）方法**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_aFL-sVxyKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br />
-<div id="windownupload"></div>
-### **※参考 教材フォルダへのファイル提出（アップロード）方法**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fa3exZ9HnT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br />
--->
 <div id="winprinter"></div>
 ### **大学プリンタのインストール・設定方法**
 <br />
-<!--
-プリンタを参照するアドレスは、次の通りです。この動画では、大宮キャンパスを例に説明しています。<br />
-<br />
-大宮キャンパス：<strong>\\\\o-prspl01.ad.oit.ac.jp</strong><br />
-<br />
-梅田キャンパス：<strong>\\\\u-prspl01.ad.oit.ac.jp</strong><br />
-<br />
-枚方キャンパス：<strong>\\\\h-prspl01.ad.oit.ac.jp</strong><br />
-<br />
-（画面上では \\\\ になっていますが、そのままコピー＆貼り付けを実行するとWindows上では￥マークになります）<br />
-<br />
-また、プリンタ機種もキャンパスによって異なります。大宮キャンパスと枚方キャンパスはこの動画例のようにC3375ですが、梅田キャンパスはApeosPort V C3376, ApeosPort V C2276になります。<br>
-<br>
-<strong>※この動画内の7:40から15秒程度が真っ暗になっていますが、実際にこの手順で実行すると「このアプリがデバイスに変更を加えることを許可しますか」という表示が出ます。この時には「はい」を選択して下さい。</strong><br>
-<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6YLlPtpplmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjUinomNsoo?si=P5mszKp21g5DMJnZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
