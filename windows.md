@@ -123,7 +123,7 @@ is_project_page: false
 （画面上では \\\\ になっていますが、そのままコピー＆貼り付けを実行するとWindows上では￥マークになります）<br />
 <br />
 また、プリンタ機種もキャンパスによって異なります。大宮キャンパスと枚方キャンパスはこの動画例のようにC3375ですが、梅田キャンパスはApeosPort V C3376, ApeosPort V C2276になります。<br>
-<br> <!--
+<br>
 <strong>※この動画内の7:40から15秒程度が真っ暗になっていますが、実際にこの手順で実行すると「このアプリがデバイスに変更を加えることを許可しますか」という表示が出ます。この時には「はい」を選択して下さい。</strong><br> -->
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YLlPtpplmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
