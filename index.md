@@ -37,6 +37,10 @@ is_project_page: false
 # 大阪工業大学 ノートPCサポートサイト
 
 ### ここでは、ノートPCの設定用動画を公開しています。
+<br>
+情報センターの<a href="http://webguidance.oit.ac.jp/center.html" target="_new">新入生向けWebガイダンス</a>も併せて参考にして下さい。<nt>
+※新入生向けWebガイダンスの動画もここの動画と同じです。<br>
+<br>
 スマートフォンやタブレットを使用してこのサイトを見るには、下のQRコードを読み取って下さい。
 <br>
 <img src="github_qr.png">
@@ -52,8 +56,7 @@ is_project_page: false
     </a>
 </div>
 
-情報センターの<a href="http://webguidance.oit.ac.jp/center.html" target="_new">新入生向けWebガイダンス</a>も併せて参考にして下さい。<nt>
-※新入生向けWebガイダンスの動画もここの動画と同じです。<br>
+
 <!--
 <br>
 [Windows用ページはこちら](windows.html)
