@@ -51,6 +51,9 @@ is_project_page: false
     Mac
     </a>
 </div>
+
+情報センターの<a href="http://webguidance.oit.ac.jp/center.html" target="_new">新入生向けWebガイダンス</a>も併せて参考にして下さい。<nt>
+※新入生向けWebガイダンスの動画もここの動画と同じです。<br>
 <!--
 <br>
 [Windows用ページはこちら](windows.html)
