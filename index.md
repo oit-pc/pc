@@ -45,7 +45,7 @@ is_project_page: false
 <br>
 <img src="github_qr.png">
 <br>
-また、短縮URL **http://is.gd/oitpc** でもアクセスできます。
+また、短縮URL ** http://is.gd/oitpc ** でもアクセスできます。
 <br>
 <div id="winmac">
     <a href="windows.html" id="win">
