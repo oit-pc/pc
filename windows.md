@@ -47,6 +47,12 @@ is_project_page: false
 -->
 <div id="winoffice"></div>
 ### **Windows用 Officeインストール動画**
+
+この動画の撮影後、一部画面構成が変更されています。<br>
+以下のように、ログイン後は左上の点のアイコンから「Microsoft 365」をクリックし、次に開いた画面で右側の「インストールなど」をクリックしてください。<br>
+
+<img src="office2024.png"><br>
+<br>
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3MivoKECk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c8sKZru67_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
