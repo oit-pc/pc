@@ -73,7 +73,13 @@ is_project_page: false
 ### **大学プリンタのインストール・設定方法**
 <br />
 アクセス先：<a href="http://s.oit.ac.jp/pr24o">http://s.oit.ac.jp/pr24o</a><br>
-
+<br>
+**注意** <br>
+4月10日あたりから、このプリンタのデバイスドライバをダウンロードすると「ウイルスなので削除しました」のような警告が出るようになりました。原因は不明ですが、このプログラム自体はプリンタメーカーから提供されているもので危険性はありません。しかしこのままだとインストールできないので、Windows標準のウイルスチェックシステムであるWindows Defenderを一時期的に無効にすることで、インストールを継続することができます。<br>
+Windows Defenderを無効にするには、「
+<a href="https://pc-hikkoshi.com/windows11-windows-defender-setting.html" target="_new">【Windows 11】Windows Defenderの設定方法 | 無効化や有効化にするには？</a>」を参考にしてください。（リアルタイム保護をオフにします）<br>
+またこのインストール・設定が終われば、リアルタイム保護をオンに戻してください。<br>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjUinomNsoo?si=P5mszKp21g5DMJnZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
 
