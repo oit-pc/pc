@@ -53,8 +53,7 @@ is_project_page: false
 
 <img src="office2024.png"><br>
 <br>
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3MivoKECk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c8sKZru67_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
