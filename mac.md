@@ -25,9 +25,13 @@ is_project_page: false
 
 <div id="macoffice"></div>
 ### **Mac用 Officeインストール動画**
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ixY0N-cW2NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+
+この動画の撮影後、一部画面構成が変更されています。<br>
+以下のように、ログイン後は左上の点のアイコンから「Microsoft 365」をクリックし、次に開いた画面で右側の「インストールなど」をクリックしてください。<br>
+
+<img src="office2024.png"><br>
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ghCGU231poY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 ※ちょっと画面が黄色みがかってますが、気にしないでください。
